@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Dhuang0661
+- 👋 Hi, my name is David.
 - 👀 I’m interested in webscrapping, machine learning, and software development
-- 🌱 I’m currently learning JSON and XML
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning about Cloud and AI.
+- 💞️ Take a look at the repository for a couple of my projects. More are on the way!!!
 - 📫 How to reach me: 
 Email: dhuang0661@gmail.com
 
