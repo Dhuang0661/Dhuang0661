@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning about Cloud and AI.
 - 💞️ Take a look at the repository for a couple of my projects. More are on the way!!!
 - 📫 How to reach me: 
-- Email: dhuang0661@gmail.com
+-  Email: dhuang0661@gmail.com
 - If you came from my portfolio website. Don't worry, you are in the right place.
 
 <!---
